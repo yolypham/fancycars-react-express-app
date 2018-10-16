@@ -25,14 +25,6 @@
   },
   {
     "id": 4,
-    "img": "http://localhost:3000/images/rangeRoverHSE.jpg",
-    "name": "Range Rover",
-    "make": "Land Rover",
-    "model": "Sport HSE",
-    "year": "2018"
-  },
-  {
-    "id": 5,
     "img": "http://localhost:3000/images/landRoverVelar.png",
     "name": "Discovery",
     "make": "Land Rover",
@@ -40,11 +32,19 @@
     "year": "2019"
   },
   {
-    "id": 6,
+    "id": 5,
     "img": "http://localhost:3000/images/mercedezGLA-250-SUV.png",
     "name": "Mercedes GLA",
     "make": "Mercedes Benz",
     "model": "250 SUV",
+    "year": "2018"
+  },
+  {
+    "id": 6,
+    "img": "http://localhost:3000/images/rangeRoverHSE.jpg",
+    "name": "Range Rover",
+    "make": "Land Rover",
+    "model": "Sport HSE",
     "year": "2018"
   },
   {

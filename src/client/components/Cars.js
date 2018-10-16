@@ -16,7 +16,7 @@ const Cars = (props) => {
             Year:&nbsp;
             {car.year}
           </p>
-          <div className="d-flex justify-content-between align-items-center">
+          <div className="align-items-center">
             <button type="button" className="btn btn-sm btn-outline-secondary">
               Buy
             </button>

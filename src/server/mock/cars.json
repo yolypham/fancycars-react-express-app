@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "img": "http://localhost:3000/images/accordSedanEX-L.png",
+    "name": "Honda Accord",
+    "make": "Honda",
+    "model": "Sedan EX-L",
+    "year": "2016"
+  },
+  {
+    "id": 2,
+    "img": "http://localhost:3000/images/hondaCivic2017.png",
+    "name": "Honda Civic",
+    "make": "Honda",
+    "model": "Sedan SE",
+    "year": "2017"
+  },
+  {
+    "id": 3,
+    "img": "http://localhost:3000/images/SorrentoLX-V6.jpg",
+    "name": "Kia Sorrento",
+    "make": "Kia",
+    "model": "LX V6",
+    "year": "2016"
+  },
+  {
+    "id": 4,
+    "img": "http://localhost:3000/images/rangeRoverHSE.jpg",
+    "name": "Range Rover",
+    "make": "Land Rover",
+    "model": "Sport HSE",
+    "year": "2018"
+  },
+  {
+    "id": 5,
+    "img": "http://localhost:3000/images/landRoverVelar.png",
+    "name": "Discovery",
+    "make": "Land Rover",
+    "model": "Velar LE",
+    "year": "2019"
+  },
+  {
+    "id": 6,
+    "img": "http://localhost:3000/images/mercedezGLA-250-SUV.png",
+    "name": "Mercedes GLA",
+    "make": "Mercedes Benz",
+    "model": "250 SUV",
+    "year": "2018"
+  },
+  {
+    "id": 7,
+    "img": "http://localhost:3000/images/bmw430i-xDrive.jpeg",
+    "name": "BMW 430i",
+    "make": "BMW",
+    "model": "X Drive",
+    "year": "2019"
+  },
+  {
+    "id": 8,
+    "img": "http://localhost:3000/images/bmwMiniCooperS.jpeg",
+    "name": "BMW Mini Cooper",
+    "make": "BMW",
+    "model": "5 Door-S",
+    "year": "2018"
+  },
+  {
+    "id": 9,
+    "img": "http://localhost:3000/images/mercedesGLC.png",
+    "name": "Mercedes GLC",
+    "make": "Mercedes-Benz",
+    "model": "GLA SUV",
+    "year": "2018"
+  },
+  {
+    "id": 10,
+    "img": "http://localhost:3000/images/rangeRoverEvoqueSE.jpg",
+    "name": "Range Rover",
+    "make": "Land Rover",
+    "model": "Evoque SE",
+    "year": "2019"
+  }
+]

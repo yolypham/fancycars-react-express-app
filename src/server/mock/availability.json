@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "available": "Out of Stock"
+  },
+  {
+    "id": 2,
+    "available": "Out of Stock"
+  },
+  {
+    "id": 3,
+    "available": "Out of Stock"
+  },
+  {
+    "id": 4,
+    "available": "Unavailable"
+  },
+  {
+    "id": 5,
+    "available": "Unavailable"
+  },
+  {
+    "id": 6,
+    "available": "Unavailable"
+  },
+  {
+    "id": 7,
+    "available": "In Dealership"
+  },
+  {
+    "id": 8,
+    "available": "In Dealership"
+  },
+  {
+    "id": 9,
+    "available": "In Dealership"
+  },
+  {
+    "id": 10,
+    "available": "In Dealership"
+  }
+]

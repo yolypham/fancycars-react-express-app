@@ -1,0 +1,28 @@
+.content-section {
+  margin-top: 80px;
+}
+
+.items-section {
+  margin-top: 30px;
+}
+
+.dropdown-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dropdown-label {
+  width: 100px;
+  padding: 5px 0 5px 0;
+}
+
+.dropdown-option {
+  width: 35%;
+}
+
+@media screen and (max-width: 760px) {
+  .dropdown-option {
+    width: 100%;
+  }
+}

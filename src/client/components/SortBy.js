@@ -6,9 +6,14 @@ const SortBy = props => (
       Sort by:
       {' '}
     </label>
-    <select className="form-control dropdown-option" id="exampleFormControlSelect1">
-      <option>Name</option>
-      <option>Availability</option>
+    <select
+      className="form-control dropdown-option"
+      id="exampleFormControlSelect1"
+      onChange={props.changed}
+    >
+      <option value="id">...</option>
+      <option value="name">Name</option>
+      <option value="availability">Availability</option>
     </select>
   </div>
 );
